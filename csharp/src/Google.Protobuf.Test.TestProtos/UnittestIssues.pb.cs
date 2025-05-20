@@ -64,11 +64,43 @@ namespace UnitTest.Issues.TestProtos {
             "d3JpdGVfdG8YByABKAUSDQoFY2xvbmUYCCABKAUSFgoOY2FsY3VsYXRlX3Np",
             "emUYCSABKAUSEgoKbWVyZ2VfZnJvbRgKIAEoBRIXCg9vbl9jb25zdHJ1Y3Rp",
             "b24YCyABKAUSDgoGcGFyc2VyGAwgASgFIj0KEUlzc3VlMTE5ODdNZXNzYWdl",
-            "EgwKAWEYASABKAVSAWISDAoBYhgCIAEoBVIBYRIMCgFjGAMgASgFUgFkKlUK",
-            "DE5lZ2F0aXZlRW51bRIWChJORUdBVElWRV9FTlVNX1pFUk8QABIWCglGaXZl",
-            "QmVsb3cQ+///////////ARIVCghNaW51c09uZRD///////////8BKjYKDkRl",
-            "cHJlY2F0ZWRFbnVtEhcKD0RFUFJFQ0FURURfWkVSTxAAGgIIARIHCgNvbmUQ",
-            "ARoCGAFCHaoCGlVuaXRUZXN0Lklzc3Vlcy5UZXN0UHJvdG9zYgZwcm90bzM="));
+            "EgwKAWEYASABKAVSAWISDAoBYhgCIAEoBVIBYRIMCgFjGAMgASgFUgFkIo8L",
+            "ChVBbGxGaWVsZFJlcGVhdGVkQ2xhc3MSEAoIYm9vbGVhbjEYASABKAgSEAoI",
+            "Ym9vbGVhbjIYAiABKAgSEAoIYm9vbGVhbjMYAyABKAgSEAoIYm9vbGVhbjQY",
+            "BCABKAgSEAoIYm9vbGVhbjUYBSABKAgSEAoIYm9vbGVhbjYYBiABKAgSDAoE",
+            "aW50MRgHIAEoBRIMCgRpbnQyGAggASgFEgwKBGludDMYCSABKAUSDAoEaW50",
+            "NBgKIAEoBRIMCgRpbnQ1GAsgASgFEgwKBGludDYYDCABKAUSDQoFdWludDEY",
+            "DSABKA0SDQoFdWludDIYDiABKA0SDQoFdWludDMYDyABKA0SDQoFdWludDQY",
+            "ECABKA0SDQoFdWludDUYESABKA0SDQoFdWludDYYEiABKA0SDQoFbG9uZzEY",
+            "EyABKAMSDQoFbG9uZzIYFCABKAMSDQoFbG9uZzMYFSABKAMSDQoFbG9uZzQY",
+            "FiABKAMSDQoFbG9uZzUYFyABKAMSDQoFbG9uZzYYGCABKAMSDgoGdWxvbmcx",
+            "GBkgASgEEg4KBnVsb25nMhgaIAEoBBIOCgZ1bG9uZzMYGyABKAQSDgoGdWxv",
+            "bmc0GBwgASgEEg4KBnVsb25nNRgdIAEoBBIOCgZ1bG9uZzYYHiABKAQSDgoG",
+            "ZmxvYXQxGB8gASgCEg4KBmZsb2F0MhggIAEoAhIOCgZmbG9hdDMYISABKAIS",
+            "DgoGZmxvYXQ0GCIgASgCEg4KBmZsb2F0NRgjIAEoAhIOCgZmbG9hdDYYJCAB",
+            "KAISDwoHZG91YmxlMRglIAEoARIPCgdkb3VibGUyGCYgASgBEg8KB2RvdWJs",
+            "ZTMYJyABKAESDwoHZG91YmxlNBgoIAEoARIPCgdkb3VibGU1GCkgASgBEg8K",
+            "B2RvdWJsZTYYKiABKAESDwoHc3RyaW5nMRgrIAEoCRIPCgdzdHJpbmcyGCwg",
+            "ASgJEg8KB3N0cmluZzMYLSABKAkSDwoHc3RyaW5nNBguIAEoCRIPCgdzdHJp",
+            "bmc1GC8gASgJEg8KB3N0cmluZzYYMCABKAkSEwoLYnl0ZXN0cmluZzEYMSAB",
+            "KAwSEwoLYnl0ZXN0cmluZzIYMiABKAwSEwoLYnl0ZXN0cmluZzMYMyABKAwS",
+            "EwoLYnl0ZXN0cmluZzQYNCABKAwSEwoLYnl0ZXN0cmluZzUYNSABKAwSEwoL",
+            "Ynl0ZXN0cmluZzYYNiABKAwSQAoFZW51bTEYNyABKA4yMS51bml0dGVzdF9p",
+            "c3N1ZXMuQWxsRmllbGRSZXBlYXRlZENsYXNzLnNpbXBsZUVudW0SQAoFZW51",
+            "bTIYOCABKA4yMS51bml0dGVzdF9pc3N1ZXMuQWxsRmllbGRSZXBlYXRlZENs",
+            "YXNzLnNpbXBsZUVudW0SQAoFZW51bTMYOSABKA4yMS51bml0dGVzdF9pc3N1",
+            "ZXMuQWxsRmllbGRSZXBlYXRlZENsYXNzLnNpbXBsZUVudW0SQAoFZW51bTQY",
+            "OiABKA4yMS51bml0dGVzdF9pc3N1ZXMuQWxsRmllbGRSZXBlYXRlZENsYXNz",
+            "LnNpbXBsZUVudW0SQAoFZW51bTUYOyABKA4yMS51bml0dGVzdF9pc3N1ZXMu",
+            "QWxsRmllbGRSZXBlYXRlZENsYXNzLnNpbXBsZUVudW0SQAoFZW51bTYYPCAB",
+            "KA4yMS51bml0dGVzdF9pc3N1ZXMuQWxsRmllbGRSZXBlYXRlZENsYXNzLnNp",
+            "bXBsZUVudW0ibAoKc2ltcGxlRW51bRIOCgplbnVtVmFsdWUxEAASDgoKZW51",
+            "bVZhbHVlMhABEg4KCmVudW12YWx1ZTMQAhIOCgplbnVtdmFsdWU0EAMSDgoK",
+            "ZW51bXZhbHVlNRAEEg4KCmVudW12YWx1ZTYQBSpVCgxOZWdhdGl2ZUVudW0S",
+            "FgoSTkVHQVRJVkVfRU5VTV9aRVJPEAASFgoJRml2ZUJlbG93EPv/////////",
+            "/wESFQoITWludXNPbmUQ////////////ASo2Cg5EZXByZWNhdGVkRW51bRIX",
+            "Cg9ERVBSRUNBVEVEX1pFUk8QABoCCAESBwoDb25lEAEaAhgBQh2qAhpVbml0",
+            "VGVzdC5Jc3N1ZXMuVGVzdFByb3Rvc2IGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.StructReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::UnitTest.Issues.TestProtos.NegativeEnum), typeof(global::UnitTest.Issues.TestProtos.DeprecatedEnum), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -87,7 +119,8 @@ namespace UnitTest.Issues.TestProtos {
             new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.OneofWithNoneField), global::UnitTest.Issues.TestProtos.OneofWithNoneField.Parser, new[]{ "X", "None" }, new[]{ "Test" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.OneofWithNoneName), global::UnitTest.Issues.TestProtos.OneofWithNoneName.Parser, new[]{ "X", "Y" }, new[]{ "None" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.DisambiguateCommonMembers), global::UnitTest.Issues.TestProtos.DisambiguateCommonMembers.Parser, new[]{ "DisambiguateCommonMembers_", "Types_", "Descriptor_", "Equals_", "ToString_", "GetHashCode_", "WriteTo_", "Clone_", "CalculateSize_", "MergeFrom_", "OnConstruction_", "Parser_" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.Issue11987Message), global::UnitTest.Issues.TestProtos.Issue11987Message.Parser, new[]{ "A", "B", "C" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.Issue11987Message), global::UnitTest.Issues.TestProtos.Issue11987Message.Parser, new[]{ "A", "B", "C" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass), global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Parser, new[]{ "Boolean1", "Boolean2", "Boolean3", "Boolean4", "Boolean5", "Boolean6", "Int1", "Int2", "Int3", "Int4", "Int5", "Int6", "Uint1", "Uint2", "Uint3", "Uint4", "Uint5", "Uint6", "Long1", "Long2", "Long3", "Long4", "Long5", "Long6", "Ulong1", "Ulong2", "Ulong3", "Ulong4", "Ulong5", "Ulong6", "Float1", "Float2", "Float3", "Float4", "Float5", "Float6", "Double1", "Double2", "Double3", "Double4", "Double5", "Double6", "String1", "String2", "String3", "String4", "String5", "String6", "Bytestring1", "Bytestring2", "Bytestring3", "Bytestring4", "Bytestring5", "Bytestring6", "Enum1", "Enum2", "Enum3", "Enum4", "Enum5", "Enum6" }, null, new[]{ typeof(global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) }, null, null)
           }));
     }
     #endregion
@@ -5555,6 +5588,2404 @@ namespace UnitTest.Issues.TestProtos {
       }
     }
     #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class AllFieldRepeatedClass : pb::IMessage<AllFieldRepeatedClass>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<AllFieldRepeatedClass> _parser = new pb::MessageParser<AllFieldRepeatedClass>(() => new AllFieldRepeatedClass());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<AllFieldRepeatedClass> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::UnitTest.Issues.TestProtos.UnittestIssuesReflection.Descriptor.MessageTypes[16]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public AllFieldRepeatedClass() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public AllFieldRepeatedClass(AllFieldRepeatedClass other) : this() {
+      boolean1_ = other.boolean1_;
+      boolean2_ = other.boolean2_;
+      boolean3_ = other.boolean3_;
+      boolean4_ = other.boolean4_;
+      boolean5_ = other.boolean5_;
+      boolean6_ = other.boolean6_;
+      int1_ = other.int1_;
+      int2_ = other.int2_;
+      int3_ = other.int3_;
+      int4_ = other.int4_;
+      int5_ = other.int5_;
+      int6_ = other.int6_;
+      uint1_ = other.uint1_;
+      uint2_ = other.uint2_;
+      uint3_ = other.uint3_;
+      uint4_ = other.uint4_;
+      uint5_ = other.uint5_;
+      uint6_ = other.uint6_;
+      long1_ = other.long1_;
+      long2_ = other.long2_;
+      long3_ = other.long3_;
+      long4_ = other.long4_;
+      long5_ = other.long5_;
+      long6_ = other.long6_;
+      ulong1_ = other.ulong1_;
+      ulong2_ = other.ulong2_;
+      ulong3_ = other.ulong3_;
+      ulong4_ = other.ulong4_;
+      ulong5_ = other.ulong5_;
+      ulong6_ = other.ulong6_;
+      float1_ = other.float1_;
+      float2_ = other.float2_;
+      float3_ = other.float3_;
+      float4_ = other.float4_;
+      float5_ = other.float5_;
+      float6_ = other.float6_;
+      double1_ = other.double1_;
+      double2_ = other.double2_;
+      double3_ = other.double3_;
+      double4_ = other.double4_;
+      double5_ = other.double5_;
+      double6_ = other.double6_;
+      string1_ = other.string1_;
+      string2_ = other.string2_;
+      string3_ = other.string3_;
+      string4_ = other.string4_;
+      string5_ = other.string5_;
+      string6_ = other.string6_;
+      bytestring1_ = other.bytestring1_;
+      bytestring2_ = other.bytestring2_;
+      bytestring3_ = other.bytestring3_;
+      bytestring4_ = other.bytestring4_;
+      bytestring5_ = other.bytestring5_;
+      bytestring6_ = other.bytestring6_;
+      enum1_ = other.enum1_;
+      enum2_ = other.enum2_;
+      enum3_ = other.enum3_;
+      enum4_ = other.enum4_;
+      enum5_ = other.enum5_;
+      enum6_ = other.enum6_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public AllFieldRepeatedClass Clone() {
+      return new AllFieldRepeatedClass(this);
+    }
+
+    /// <summary>Field number for the "boolean1" field.</summary>
+    public const int Boolean1FieldNumber = 1;
+    private bool boolean1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean1 {
+      get { return boolean1_; }
+      set {
+        boolean1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "boolean2" field.</summary>
+    public const int Boolean2FieldNumber = 2;
+    private bool boolean2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean2 {
+      get { return boolean2_; }
+      set {
+        boolean2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "boolean3" field.</summary>
+    public const int Boolean3FieldNumber = 3;
+    private bool boolean3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean3 {
+      get { return boolean3_; }
+      set {
+        boolean3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "boolean4" field.</summary>
+    public const int Boolean4FieldNumber = 4;
+    private bool boolean4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean4 {
+      get { return boolean4_; }
+      set {
+        boolean4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "boolean5" field.</summary>
+    public const int Boolean5FieldNumber = 5;
+    private bool boolean5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean5 {
+      get { return boolean5_; }
+      set {
+        boolean5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "boolean6" field.</summary>
+    public const int Boolean6FieldNumber = 6;
+    private bool boolean6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Boolean6 {
+      get { return boolean6_; }
+      set {
+        boolean6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int1" field.</summary>
+    public const int Int1FieldNumber = 7;
+    private int int1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int1 {
+      get { return int1_; }
+      set {
+        int1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int2" field.</summary>
+    public const int Int2FieldNumber = 8;
+    private int int2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int2 {
+      get { return int2_; }
+      set {
+        int2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int3" field.</summary>
+    public const int Int3FieldNumber = 9;
+    private int int3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int3 {
+      get { return int3_; }
+      set {
+        int3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int4" field.</summary>
+    public const int Int4FieldNumber = 10;
+    private int int4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int4 {
+      get { return int4_; }
+      set {
+        int4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int5" field.</summary>
+    public const int Int5FieldNumber = 11;
+    private int int5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int5 {
+      get { return int5_; }
+      set {
+        int5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "int6" field.</summary>
+    public const int Int6FieldNumber = 12;
+    private int int6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Int6 {
+      get { return int6_; }
+      set {
+        int6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint1" field.</summary>
+    public const int Uint1FieldNumber = 13;
+    private uint uint1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint1 {
+      get { return uint1_; }
+      set {
+        uint1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint2" field.</summary>
+    public const int Uint2FieldNumber = 14;
+    private uint uint2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint2 {
+      get { return uint2_; }
+      set {
+        uint2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint3" field.</summary>
+    public const int Uint3FieldNumber = 15;
+    private uint uint3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint3 {
+      get { return uint3_; }
+      set {
+        uint3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint4" field.</summary>
+    public const int Uint4FieldNumber = 16;
+    private uint uint4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint4 {
+      get { return uint4_; }
+      set {
+        uint4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint5" field.</summary>
+    public const int Uint5FieldNumber = 17;
+    private uint uint5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint5 {
+      get { return uint5_; }
+      set {
+        uint5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "uint6" field.</summary>
+    public const int Uint6FieldNumber = 18;
+    private uint uint6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Uint6 {
+      get { return uint6_; }
+      set {
+        uint6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long1" field.</summary>
+    public const int Long1FieldNumber = 19;
+    private long long1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long1 {
+      get { return long1_; }
+      set {
+        long1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long2" field.</summary>
+    public const int Long2FieldNumber = 20;
+    private long long2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long2 {
+      get { return long2_; }
+      set {
+        long2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long3" field.</summary>
+    public const int Long3FieldNumber = 21;
+    private long long3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long3 {
+      get { return long3_; }
+      set {
+        long3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long4" field.</summary>
+    public const int Long4FieldNumber = 22;
+    private long long4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long4 {
+      get { return long4_; }
+      set {
+        long4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long5" field.</summary>
+    public const int Long5FieldNumber = 23;
+    private long long5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long5 {
+      get { return long5_; }
+      set {
+        long5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "long6" field.</summary>
+    public const int Long6FieldNumber = 24;
+    private long long6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long Long6 {
+      get { return long6_; }
+      set {
+        long6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong1" field.</summary>
+    public const int Ulong1FieldNumber = 25;
+    private ulong ulong1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong1 {
+      get { return ulong1_; }
+      set {
+        ulong1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong2" field.</summary>
+    public const int Ulong2FieldNumber = 26;
+    private ulong ulong2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong2 {
+      get { return ulong2_; }
+      set {
+        ulong2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong3" field.</summary>
+    public const int Ulong3FieldNumber = 27;
+    private ulong ulong3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong3 {
+      get { return ulong3_; }
+      set {
+        ulong3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong4" field.</summary>
+    public const int Ulong4FieldNumber = 28;
+    private ulong ulong4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong4 {
+      get { return ulong4_; }
+      set {
+        ulong4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong5" field.</summary>
+    public const int Ulong5FieldNumber = 29;
+    private ulong ulong5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong5 {
+      get { return ulong5_; }
+      set {
+        ulong5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ulong6" field.</summary>
+    public const int Ulong6FieldNumber = 30;
+    private ulong ulong6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Ulong6 {
+      get { return ulong6_; }
+      set {
+        ulong6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float1" field.</summary>
+    public const int Float1FieldNumber = 31;
+    private float float1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float1 {
+      get { return float1_; }
+      set {
+        float1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float2" field.</summary>
+    public const int Float2FieldNumber = 32;
+    private float float2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float2 {
+      get { return float2_; }
+      set {
+        float2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float3" field.</summary>
+    public const int Float3FieldNumber = 33;
+    private float float3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float3 {
+      get { return float3_; }
+      set {
+        float3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float4" field.</summary>
+    public const int Float4FieldNumber = 34;
+    private float float4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float4 {
+      get { return float4_; }
+      set {
+        float4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float5" field.</summary>
+    public const int Float5FieldNumber = 35;
+    private float float5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float5 {
+      get { return float5_; }
+      set {
+        float5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "float6" field.</summary>
+    public const int Float6FieldNumber = 36;
+    private float float6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Float6 {
+      get { return float6_; }
+      set {
+        float6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double1" field.</summary>
+    public const int Double1FieldNumber = 37;
+    private double double1_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double1 {
+      get { return double1_; }
+      set {
+        double1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double2" field.</summary>
+    public const int Double2FieldNumber = 38;
+    private double double2_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double2 {
+      get { return double2_; }
+      set {
+        double2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double3" field.</summary>
+    public const int Double3FieldNumber = 39;
+    private double double3_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double3 {
+      get { return double3_; }
+      set {
+        double3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double4" field.</summary>
+    public const int Double4FieldNumber = 40;
+    private double double4_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double4 {
+      get { return double4_; }
+      set {
+        double4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double5" field.</summary>
+    public const int Double5FieldNumber = 41;
+    private double double5_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double5 {
+      get { return double5_; }
+      set {
+        double5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "double6" field.</summary>
+    public const int Double6FieldNumber = 42;
+    private double double6_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public double Double6 {
+      get { return double6_; }
+      set {
+        double6_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "string1" field.</summary>
+    public const int String1FieldNumber = 43;
+    private string string1_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String1 {
+      get { return string1_; }
+      set {
+        string1_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "string2" field.</summary>
+    public const int String2FieldNumber = 44;
+    private string string2_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String2 {
+      get { return string2_; }
+      set {
+        string2_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "string3" field.</summary>
+    public const int String3FieldNumber = 45;
+    private string string3_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String3 {
+      get { return string3_; }
+      set {
+        string3_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "string4" field.</summary>
+    public const int String4FieldNumber = 46;
+    private string string4_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String4 {
+      get { return string4_; }
+      set {
+        string4_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "string5" field.</summary>
+    public const int String5FieldNumber = 47;
+    private string string5_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String5 {
+      get { return string5_; }
+      set {
+        string5_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "string6" field.</summary>
+    public const int String6FieldNumber = 48;
+    private string string6_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string String6 {
+      get { return string6_; }
+      set {
+        string6_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring1" field.</summary>
+    public const int Bytestring1FieldNumber = 49;
+    private pb::ByteString bytestring1_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring1 {
+      get { return bytestring1_; }
+      set {
+        bytestring1_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring2" field.</summary>
+    public const int Bytestring2FieldNumber = 50;
+    private pb::ByteString bytestring2_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring2 {
+      get { return bytestring2_; }
+      set {
+        bytestring2_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring3" field.</summary>
+    public const int Bytestring3FieldNumber = 51;
+    private pb::ByteString bytestring3_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring3 {
+      get { return bytestring3_; }
+      set {
+        bytestring3_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring4" field.</summary>
+    public const int Bytestring4FieldNumber = 52;
+    private pb::ByteString bytestring4_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring4 {
+      get { return bytestring4_; }
+      set {
+        bytestring4_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring5" field.</summary>
+    public const int Bytestring5FieldNumber = 53;
+    private pb::ByteString bytestring5_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring5 {
+      get { return bytestring5_; }
+      set {
+        bytestring5_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "bytestring6" field.</summary>
+    public const int Bytestring6FieldNumber = 54;
+    private pb::ByteString bytestring6_ = pb::ByteString.Empty;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Bytestring6 {
+      get { return bytestring6_; }
+      set {
+        bytestring6_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "enum1" field.</summary>
+    public const int Enum1FieldNumber = 55;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum1_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum1 {
+      get { return enum1_; }
+      set {
+        enum1_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "enum2" field.</summary>
+    public const int Enum2FieldNumber = 56;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum2_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum2 {
+      get { return enum2_; }
+      set {
+        enum2_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "enum3" field.</summary>
+    public const int Enum3FieldNumber = 57;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum3_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum3 {
+      get { return enum3_; }
+      set {
+        enum3_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "enum4" field.</summary>
+    public const int Enum4FieldNumber = 58;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum4_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum4 {
+      get { return enum4_; }
+      set {
+        enum4_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "enum5" field.</summary>
+    public const int Enum5FieldNumber = 59;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum5_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum5 {
+      get { return enum5_; }
+      set {
+        enum5_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "enum6" field.</summary>
+    public const int Enum6FieldNumber = 60;
+    private global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum enum6_ = global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum Enum6 {
+      get { return enum6_; }
+      set {
+        enum6_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as AllFieldRepeatedClass);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(AllFieldRepeatedClass other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Boolean1 != other.Boolean1) return false;
+      if (Boolean2 != other.Boolean2) return false;
+      if (Boolean3 != other.Boolean3) return false;
+      if (Boolean4 != other.Boolean4) return false;
+      if (Boolean5 != other.Boolean5) return false;
+      if (Boolean6 != other.Boolean6) return false;
+      if (Int1 != other.Int1) return false;
+      if (Int2 != other.Int2) return false;
+      if (Int3 != other.Int3) return false;
+      if (Int4 != other.Int4) return false;
+      if (Int5 != other.Int5) return false;
+      if (Int6 != other.Int6) return false;
+      if (Uint1 != other.Uint1) return false;
+      if (Uint2 != other.Uint2) return false;
+      if (Uint3 != other.Uint3) return false;
+      if (Uint4 != other.Uint4) return false;
+      if (Uint5 != other.Uint5) return false;
+      if (Uint6 != other.Uint6) return false;
+      if (Long1 != other.Long1) return false;
+      if (Long2 != other.Long2) return false;
+      if (Long3 != other.Long3) return false;
+      if (Long4 != other.Long4) return false;
+      if (Long5 != other.Long5) return false;
+      if (Long6 != other.Long6) return false;
+      if (Ulong1 != other.Ulong1) return false;
+      if (Ulong2 != other.Ulong2) return false;
+      if (Ulong3 != other.Ulong3) return false;
+      if (Ulong4 != other.Ulong4) return false;
+      if (Ulong5 != other.Ulong5) return false;
+      if (Ulong6 != other.Ulong6) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float1, other.Float1)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float2, other.Float2)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float3, other.Float3)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float4, other.Float4)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float5, other.Float5)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Float6, other.Float6)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double1, other.Double1)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double2, other.Double2)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double3, other.Double3)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double4, other.Double4)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double5, other.Double5)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Double6, other.Double6)) return false;
+      if (String1 != other.String1) return false;
+      if (String2 != other.String2) return false;
+      if (String3 != other.String3) return false;
+      if (String4 != other.String4) return false;
+      if (String5 != other.String5) return false;
+      if (String6 != other.String6) return false;
+      if (Bytestring1 != other.Bytestring1) return false;
+      if (Bytestring2 != other.Bytestring2) return false;
+      if (Bytestring3 != other.Bytestring3) return false;
+      if (Bytestring4 != other.Bytestring4) return false;
+      if (Bytestring5 != other.Bytestring5) return false;
+      if (Bytestring6 != other.Bytestring6) return false;
+      if (Enum1 != other.Enum1) return false;
+      if (Enum2 != other.Enum2) return false;
+      if (Enum3 != other.Enum3) return false;
+      if (Enum4 != other.Enum4) return false;
+      if (Enum5 != other.Enum5) return false;
+      if (Enum6 != other.Enum6) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Boolean1 != false) hash ^= Boolean1.GetHashCode();
+      if (Boolean2 != false) hash ^= Boolean2.GetHashCode();
+      if (Boolean3 != false) hash ^= Boolean3.GetHashCode();
+      if (Boolean4 != false) hash ^= Boolean4.GetHashCode();
+      if (Boolean5 != false) hash ^= Boolean5.GetHashCode();
+      if (Boolean6 != false) hash ^= Boolean6.GetHashCode();
+      if (Int1 != 0) hash ^= Int1.GetHashCode();
+      if (Int2 != 0) hash ^= Int2.GetHashCode();
+      if (Int3 != 0) hash ^= Int3.GetHashCode();
+      if (Int4 != 0) hash ^= Int4.GetHashCode();
+      if (Int5 != 0) hash ^= Int5.GetHashCode();
+      if (Int6 != 0) hash ^= Int6.GetHashCode();
+      if (Uint1 != 0) hash ^= Uint1.GetHashCode();
+      if (Uint2 != 0) hash ^= Uint2.GetHashCode();
+      if (Uint3 != 0) hash ^= Uint3.GetHashCode();
+      if (Uint4 != 0) hash ^= Uint4.GetHashCode();
+      if (Uint5 != 0) hash ^= Uint5.GetHashCode();
+      if (Uint6 != 0) hash ^= Uint6.GetHashCode();
+      if (Long1 != 0L) hash ^= Long1.GetHashCode();
+      if (Long2 != 0L) hash ^= Long2.GetHashCode();
+      if (Long3 != 0L) hash ^= Long3.GetHashCode();
+      if (Long4 != 0L) hash ^= Long4.GetHashCode();
+      if (Long5 != 0L) hash ^= Long5.GetHashCode();
+      if (Long6 != 0L) hash ^= Long6.GetHashCode();
+      if (Ulong1 != 0UL) hash ^= Ulong1.GetHashCode();
+      if (Ulong2 != 0UL) hash ^= Ulong2.GetHashCode();
+      if (Ulong3 != 0UL) hash ^= Ulong3.GetHashCode();
+      if (Ulong4 != 0UL) hash ^= Ulong4.GetHashCode();
+      if (Ulong5 != 0UL) hash ^= Ulong5.GetHashCode();
+      if (Ulong6 != 0UL) hash ^= Ulong6.GetHashCode();
+      if (Float1 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float1);
+      if (Float2 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float2);
+      if (Float3 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float3);
+      if (Float4 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float4);
+      if (Float5 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float5);
+      if (Float6 != 0F) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Float6);
+      if (Double1 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double1);
+      if (Double2 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double2);
+      if (Double3 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double3);
+      if (Double4 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double4);
+      if (Double5 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double5);
+      if (Double6 != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Double6);
+      if (String1.Length != 0) hash ^= String1.GetHashCode();
+      if (String2.Length != 0) hash ^= String2.GetHashCode();
+      if (String3.Length != 0) hash ^= String3.GetHashCode();
+      if (String4.Length != 0) hash ^= String4.GetHashCode();
+      if (String5.Length != 0) hash ^= String5.GetHashCode();
+      if (String6.Length != 0) hash ^= String6.GetHashCode();
+      if (Bytestring1.Length != 0) hash ^= Bytestring1.GetHashCode();
+      if (Bytestring2.Length != 0) hash ^= Bytestring2.GetHashCode();
+      if (Bytestring3.Length != 0) hash ^= Bytestring3.GetHashCode();
+      if (Bytestring4.Length != 0) hash ^= Bytestring4.GetHashCode();
+      if (Bytestring5.Length != 0) hash ^= Bytestring5.GetHashCode();
+      if (Bytestring6.Length != 0) hash ^= Bytestring6.GetHashCode();
+      if (Enum1 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum1.GetHashCode();
+      if (Enum2 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum2.GetHashCode();
+      if (Enum3 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum3.GetHashCode();
+      if (Enum4 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum4.GetHashCode();
+      if (Enum5 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum5.GetHashCode();
+      if (Enum6 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) hash ^= Enum6.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Boolean1 != false) {
+        output.WriteRawTag(8);
+        output.WriteBool(Boolean1);
+      }
+      if (Boolean2 != false) {
+        output.WriteRawTag(16);
+        output.WriteBool(Boolean2);
+      }
+      if (Boolean3 != false) {
+        output.WriteRawTag(24);
+        output.WriteBool(Boolean3);
+      }
+      if (Boolean4 != false) {
+        output.WriteRawTag(32);
+        output.WriteBool(Boolean4);
+      }
+      if (Boolean5 != false) {
+        output.WriteRawTag(40);
+        output.WriteBool(Boolean5);
+      }
+      if (Boolean6 != false) {
+        output.WriteRawTag(48);
+        output.WriteBool(Boolean6);
+      }
+      if (Int1 != 0) {
+        output.WriteRawTag(56);
+        output.WriteInt32(Int1);
+      }
+      if (Int2 != 0) {
+        output.WriteRawTag(64);
+        output.WriteInt32(Int2);
+      }
+      if (Int3 != 0) {
+        output.WriteRawTag(72);
+        output.WriteInt32(Int3);
+      }
+      if (Int4 != 0) {
+        output.WriteRawTag(80);
+        output.WriteInt32(Int4);
+      }
+      if (Int5 != 0) {
+        output.WriteRawTag(88);
+        output.WriteInt32(Int5);
+      }
+      if (Int6 != 0) {
+        output.WriteRawTag(96);
+        output.WriteInt32(Int6);
+      }
+      if (Uint1 != 0) {
+        output.WriteRawTag(104);
+        output.WriteUInt32(Uint1);
+      }
+      if (Uint2 != 0) {
+        output.WriteRawTag(112);
+        output.WriteUInt32(Uint2);
+      }
+      if (Uint3 != 0) {
+        output.WriteRawTag(120);
+        output.WriteUInt32(Uint3);
+      }
+      if (Uint4 != 0) {
+        output.WriteRawTag(128, 1);
+        output.WriteUInt32(Uint4);
+      }
+      if (Uint5 != 0) {
+        output.WriteRawTag(136, 1);
+        output.WriteUInt32(Uint5);
+      }
+      if (Uint6 != 0) {
+        output.WriteRawTag(144, 1);
+        output.WriteUInt32(Uint6);
+      }
+      if (Long1 != 0L) {
+        output.WriteRawTag(152, 1);
+        output.WriteInt64(Long1);
+      }
+      if (Long2 != 0L) {
+        output.WriteRawTag(160, 1);
+        output.WriteInt64(Long2);
+      }
+      if (Long3 != 0L) {
+        output.WriteRawTag(168, 1);
+        output.WriteInt64(Long3);
+      }
+      if (Long4 != 0L) {
+        output.WriteRawTag(176, 1);
+        output.WriteInt64(Long4);
+      }
+      if (Long5 != 0L) {
+        output.WriteRawTag(184, 1);
+        output.WriteInt64(Long5);
+      }
+      if (Long6 != 0L) {
+        output.WriteRawTag(192, 1);
+        output.WriteInt64(Long6);
+      }
+      if (Ulong1 != 0UL) {
+        output.WriteRawTag(200, 1);
+        output.WriteUInt64(Ulong1);
+      }
+      if (Ulong2 != 0UL) {
+        output.WriteRawTag(208, 1);
+        output.WriteUInt64(Ulong2);
+      }
+      if (Ulong3 != 0UL) {
+        output.WriteRawTag(216, 1);
+        output.WriteUInt64(Ulong3);
+      }
+      if (Ulong4 != 0UL) {
+        output.WriteRawTag(224, 1);
+        output.WriteUInt64(Ulong4);
+      }
+      if (Ulong5 != 0UL) {
+        output.WriteRawTag(232, 1);
+        output.WriteUInt64(Ulong5);
+      }
+      if (Ulong6 != 0UL) {
+        output.WriteRawTag(240, 1);
+        output.WriteUInt64(Ulong6);
+      }
+      if (Float1 != 0F) {
+        output.WriteRawTag(253, 1);
+        output.WriteFloat(Float1);
+      }
+      if (Float2 != 0F) {
+        output.WriteRawTag(133, 2);
+        output.WriteFloat(Float2);
+      }
+      if (Float3 != 0F) {
+        output.WriteRawTag(141, 2);
+        output.WriteFloat(Float3);
+      }
+      if (Float4 != 0F) {
+        output.WriteRawTag(149, 2);
+        output.WriteFloat(Float4);
+      }
+      if (Float5 != 0F) {
+        output.WriteRawTag(157, 2);
+        output.WriteFloat(Float5);
+      }
+      if (Float6 != 0F) {
+        output.WriteRawTag(165, 2);
+        output.WriteFloat(Float6);
+      }
+      if (Double1 != 0D) {
+        output.WriteRawTag(169, 2);
+        output.WriteDouble(Double1);
+      }
+      if (Double2 != 0D) {
+        output.WriteRawTag(177, 2);
+        output.WriteDouble(Double2);
+      }
+      if (Double3 != 0D) {
+        output.WriteRawTag(185, 2);
+        output.WriteDouble(Double3);
+      }
+      if (Double4 != 0D) {
+        output.WriteRawTag(193, 2);
+        output.WriteDouble(Double4);
+      }
+      if (Double5 != 0D) {
+        output.WriteRawTag(201, 2);
+        output.WriteDouble(Double5);
+      }
+      if (Double6 != 0D) {
+        output.WriteRawTag(209, 2);
+        output.WriteDouble(Double6);
+      }
+      if (String1.Length != 0) {
+        output.WriteRawTag(218, 2);
+        output.WriteString(String1);
+      }
+      if (String2.Length != 0) {
+        output.WriteRawTag(226, 2);
+        output.WriteString(String2);
+      }
+      if (String3.Length != 0) {
+        output.WriteRawTag(234, 2);
+        output.WriteString(String3);
+      }
+      if (String4.Length != 0) {
+        output.WriteRawTag(242, 2);
+        output.WriteString(String4);
+      }
+      if (String5.Length != 0) {
+        output.WriteRawTag(250, 2);
+        output.WriteString(String5);
+      }
+      if (String6.Length != 0) {
+        output.WriteRawTag(130, 3);
+        output.WriteString(String6);
+      }
+      if (Bytestring1.Length != 0) {
+        output.WriteRawTag(138, 3);
+        output.WriteBytes(Bytestring1);
+      }
+      if (Bytestring2.Length != 0) {
+        output.WriteRawTag(146, 3);
+        output.WriteBytes(Bytestring2);
+      }
+      if (Bytestring3.Length != 0) {
+        output.WriteRawTag(154, 3);
+        output.WriteBytes(Bytestring3);
+      }
+      if (Bytestring4.Length != 0) {
+        output.WriteRawTag(162, 3);
+        output.WriteBytes(Bytestring4);
+      }
+      if (Bytestring5.Length != 0) {
+        output.WriteRawTag(170, 3);
+        output.WriteBytes(Bytestring5);
+      }
+      if (Bytestring6.Length != 0) {
+        output.WriteRawTag(178, 3);
+        output.WriteBytes(Bytestring6);
+      }
+      if (Enum1 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(184, 3);
+        output.WriteEnum((int) Enum1);
+      }
+      if (Enum2 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(192, 3);
+        output.WriteEnum((int) Enum2);
+      }
+      if (Enum3 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(200, 3);
+        output.WriteEnum((int) Enum3);
+      }
+      if (Enum4 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(208, 3);
+        output.WriteEnum((int) Enum4);
+      }
+      if (Enum5 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(216, 3);
+        output.WriteEnum((int) Enum5);
+      }
+      if (Enum6 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(224, 3);
+        output.WriteEnum((int) Enum6);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Boolean1 != false) {
+        output.WriteRawTag(8);
+        output.WriteBool(Boolean1);
+      }
+      if (Boolean2 != false) {
+        output.WriteRawTag(16);
+        output.WriteBool(Boolean2);
+      }
+      if (Boolean3 != false) {
+        output.WriteRawTag(24);
+        output.WriteBool(Boolean3);
+      }
+      if (Boolean4 != false) {
+        output.WriteRawTag(32);
+        output.WriteBool(Boolean4);
+      }
+      if (Boolean5 != false) {
+        output.WriteRawTag(40);
+        output.WriteBool(Boolean5);
+      }
+      if (Boolean6 != false) {
+        output.WriteRawTag(48);
+        output.WriteBool(Boolean6);
+      }
+      if (Int1 != 0) {
+        output.WriteRawTag(56);
+        output.WriteInt32(Int1);
+      }
+      if (Int2 != 0) {
+        output.WriteRawTag(64);
+        output.WriteInt32(Int2);
+      }
+      if (Int3 != 0) {
+        output.WriteRawTag(72);
+        output.WriteInt32(Int3);
+      }
+      if (Int4 != 0) {
+        output.WriteRawTag(80);
+        output.WriteInt32(Int4);
+      }
+      if (Int5 != 0) {
+        output.WriteRawTag(88);
+        output.WriteInt32(Int5);
+      }
+      if (Int6 != 0) {
+        output.WriteRawTag(96);
+        output.WriteInt32(Int6);
+      }
+      if (Uint1 != 0) {
+        output.WriteRawTag(104);
+        output.WriteUInt32(Uint1);
+      }
+      if (Uint2 != 0) {
+        output.WriteRawTag(112);
+        output.WriteUInt32(Uint2);
+      }
+      if (Uint3 != 0) {
+        output.WriteRawTag(120);
+        output.WriteUInt32(Uint3);
+      }
+      if (Uint4 != 0) {
+        output.WriteRawTag(128, 1);
+        output.WriteUInt32(Uint4);
+      }
+      if (Uint5 != 0) {
+        output.WriteRawTag(136, 1);
+        output.WriteUInt32(Uint5);
+      }
+      if (Uint6 != 0) {
+        output.WriteRawTag(144, 1);
+        output.WriteUInt32(Uint6);
+      }
+      if (Long1 != 0L) {
+        output.WriteRawTag(152, 1);
+        output.WriteInt64(Long1);
+      }
+      if (Long2 != 0L) {
+        output.WriteRawTag(160, 1);
+        output.WriteInt64(Long2);
+      }
+      if (Long3 != 0L) {
+        output.WriteRawTag(168, 1);
+        output.WriteInt64(Long3);
+      }
+      if (Long4 != 0L) {
+        output.WriteRawTag(176, 1);
+        output.WriteInt64(Long4);
+      }
+      if (Long5 != 0L) {
+        output.WriteRawTag(184, 1);
+        output.WriteInt64(Long5);
+      }
+      if (Long6 != 0L) {
+        output.WriteRawTag(192, 1);
+        output.WriteInt64(Long6);
+      }
+      if (Ulong1 != 0UL) {
+        output.WriteRawTag(200, 1);
+        output.WriteUInt64(Ulong1);
+      }
+      if (Ulong2 != 0UL) {
+        output.WriteRawTag(208, 1);
+        output.WriteUInt64(Ulong2);
+      }
+      if (Ulong3 != 0UL) {
+        output.WriteRawTag(216, 1);
+        output.WriteUInt64(Ulong3);
+      }
+      if (Ulong4 != 0UL) {
+        output.WriteRawTag(224, 1);
+        output.WriteUInt64(Ulong4);
+      }
+      if (Ulong5 != 0UL) {
+        output.WriteRawTag(232, 1);
+        output.WriteUInt64(Ulong5);
+      }
+      if (Ulong6 != 0UL) {
+        output.WriteRawTag(240, 1);
+        output.WriteUInt64(Ulong6);
+      }
+      if (Float1 != 0F) {
+        output.WriteRawTag(253, 1);
+        output.WriteFloat(Float1);
+      }
+      if (Float2 != 0F) {
+        output.WriteRawTag(133, 2);
+        output.WriteFloat(Float2);
+      }
+      if (Float3 != 0F) {
+        output.WriteRawTag(141, 2);
+        output.WriteFloat(Float3);
+      }
+      if (Float4 != 0F) {
+        output.WriteRawTag(149, 2);
+        output.WriteFloat(Float4);
+      }
+      if (Float5 != 0F) {
+        output.WriteRawTag(157, 2);
+        output.WriteFloat(Float5);
+      }
+      if (Float6 != 0F) {
+        output.WriteRawTag(165, 2);
+        output.WriteFloat(Float6);
+      }
+      if (Double1 != 0D) {
+        output.WriteRawTag(169, 2);
+        output.WriteDouble(Double1);
+      }
+      if (Double2 != 0D) {
+        output.WriteRawTag(177, 2);
+        output.WriteDouble(Double2);
+      }
+      if (Double3 != 0D) {
+        output.WriteRawTag(185, 2);
+        output.WriteDouble(Double3);
+      }
+      if (Double4 != 0D) {
+        output.WriteRawTag(193, 2);
+        output.WriteDouble(Double4);
+      }
+      if (Double5 != 0D) {
+        output.WriteRawTag(201, 2);
+        output.WriteDouble(Double5);
+      }
+      if (Double6 != 0D) {
+        output.WriteRawTag(209, 2);
+        output.WriteDouble(Double6);
+      }
+      if (String1.Length != 0) {
+        output.WriteRawTag(218, 2);
+        output.WriteString(String1);
+      }
+      if (String2.Length != 0) {
+        output.WriteRawTag(226, 2);
+        output.WriteString(String2);
+      }
+      if (String3.Length != 0) {
+        output.WriteRawTag(234, 2);
+        output.WriteString(String3);
+      }
+      if (String4.Length != 0) {
+        output.WriteRawTag(242, 2);
+        output.WriteString(String4);
+      }
+      if (String5.Length != 0) {
+        output.WriteRawTag(250, 2);
+        output.WriteString(String5);
+      }
+      if (String6.Length != 0) {
+        output.WriteRawTag(130, 3);
+        output.WriteString(String6);
+      }
+      if (Bytestring1.Length != 0) {
+        output.WriteRawTag(138, 3);
+        output.WriteBytes(Bytestring1);
+      }
+      if (Bytestring2.Length != 0) {
+        output.WriteRawTag(146, 3);
+        output.WriteBytes(Bytestring2);
+      }
+      if (Bytestring3.Length != 0) {
+        output.WriteRawTag(154, 3);
+        output.WriteBytes(Bytestring3);
+      }
+      if (Bytestring4.Length != 0) {
+        output.WriteRawTag(162, 3);
+        output.WriteBytes(Bytestring4);
+      }
+      if (Bytestring5.Length != 0) {
+        output.WriteRawTag(170, 3);
+        output.WriteBytes(Bytestring5);
+      }
+      if (Bytestring6.Length != 0) {
+        output.WriteRawTag(178, 3);
+        output.WriteBytes(Bytestring6);
+      }
+      if (Enum1 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(184, 3);
+        output.WriteEnum((int) Enum1);
+      }
+      if (Enum2 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(192, 3);
+        output.WriteEnum((int) Enum2);
+      }
+      if (Enum3 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(200, 3);
+        output.WriteEnum((int) Enum3);
+      }
+      if (Enum4 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(208, 3);
+        output.WriteEnum((int) Enum4);
+      }
+      if (Enum5 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(216, 3);
+        output.WriteEnum((int) Enum5);
+      }
+      if (Enum6 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        output.WriteRawTag(224, 3);
+        output.WriteEnum((int) Enum6);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Boolean1 != false) {
+        size += 1 + 1;
+      }
+      if (Boolean2 != false) {
+        size += 1 + 1;
+      }
+      if (Boolean3 != false) {
+        size += 1 + 1;
+      }
+      if (Boolean4 != false) {
+        size += 1 + 1;
+      }
+      if (Boolean5 != false) {
+        size += 1 + 1;
+      }
+      if (Boolean6 != false) {
+        size += 1 + 1;
+      }
+      if (Int1 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int1);
+      }
+      if (Int2 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int2);
+      }
+      if (Int3 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int3);
+      }
+      if (Int4 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int4);
+      }
+      if (Int5 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int5);
+      }
+      if (Int6 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Int6);
+      }
+      if (Uint1 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Uint1);
+      }
+      if (Uint2 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Uint2);
+      }
+      if (Uint3 != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Uint3);
+      }
+      if (Uint4 != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt32Size(Uint4);
+      }
+      if (Uint5 != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt32Size(Uint5);
+      }
+      if (Uint6 != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt32Size(Uint6);
+      }
+      if (Long1 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long1);
+      }
+      if (Long2 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long2);
+      }
+      if (Long3 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long3);
+      }
+      if (Long4 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long4);
+      }
+      if (Long5 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long5);
+      }
+      if (Long6 != 0L) {
+        size += 2 + pb::CodedOutputStream.ComputeInt64Size(Long6);
+      }
+      if (Ulong1 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong1);
+      }
+      if (Ulong2 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong2);
+      }
+      if (Ulong3 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong3);
+      }
+      if (Ulong4 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong4);
+      }
+      if (Ulong5 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong5);
+      }
+      if (Ulong6 != 0UL) {
+        size += 2 + pb::CodedOutputStream.ComputeUInt64Size(Ulong6);
+      }
+      if (Float1 != 0F) {
+        size += 2 + 4;
+      }
+      if (Float2 != 0F) {
+        size += 2 + 4;
+      }
+      if (Float3 != 0F) {
+        size += 2 + 4;
+      }
+      if (Float4 != 0F) {
+        size += 2 + 4;
+      }
+      if (Float5 != 0F) {
+        size += 2 + 4;
+      }
+      if (Float6 != 0F) {
+        size += 2 + 4;
+      }
+      if (Double1 != 0D) {
+        size += 2 + 8;
+      }
+      if (Double2 != 0D) {
+        size += 2 + 8;
+      }
+      if (Double3 != 0D) {
+        size += 2 + 8;
+      }
+      if (Double4 != 0D) {
+        size += 2 + 8;
+      }
+      if (Double5 != 0D) {
+        size += 2 + 8;
+      }
+      if (Double6 != 0D) {
+        size += 2 + 8;
+      }
+      if (String1.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String1);
+      }
+      if (String2.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String2);
+      }
+      if (String3.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String3);
+      }
+      if (String4.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String4);
+      }
+      if (String5.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String5);
+      }
+      if (String6.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeStringSize(String6);
+      }
+      if (Bytestring1.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring1);
+      }
+      if (Bytestring2.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring2);
+      }
+      if (Bytestring3.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring3);
+      }
+      if (Bytestring4.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring4);
+      }
+      if (Bytestring5.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring5);
+      }
+      if (Bytestring6.Length != 0) {
+        size += 2 + pb::CodedOutputStream.ComputeBytesSize(Bytestring6);
+      }
+      if (Enum1 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum1);
+      }
+      if (Enum2 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum2);
+      }
+      if (Enum3 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum3);
+      }
+      if (Enum4 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum4);
+      }
+      if (Enum5 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum5);
+      }
+      if (Enum6 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        size += 2 + pb::CodedOutputStream.ComputeEnumSize((int) Enum6);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(AllFieldRepeatedClass other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Boolean1 != false) {
+        Boolean1 = other.Boolean1;
+      }
+      if (other.Boolean2 != false) {
+        Boolean2 = other.Boolean2;
+      }
+      if (other.Boolean3 != false) {
+        Boolean3 = other.Boolean3;
+      }
+      if (other.Boolean4 != false) {
+        Boolean4 = other.Boolean4;
+      }
+      if (other.Boolean5 != false) {
+        Boolean5 = other.Boolean5;
+      }
+      if (other.Boolean6 != false) {
+        Boolean6 = other.Boolean6;
+      }
+      if (other.Int1 != 0) {
+        Int1 = other.Int1;
+      }
+      if (other.Int2 != 0) {
+        Int2 = other.Int2;
+      }
+      if (other.Int3 != 0) {
+        Int3 = other.Int3;
+      }
+      if (other.Int4 != 0) {
+        Int4 = other.Int4;
+      }
+      if (other.Int5 != 0) {
+        Int5 = other.Int5;
+      }
+      if (other.Int6 != 0) {
+        Int6 = other.Int6;
+      }
+      if (other.Uint1 != 0) {
+        Uint1 = other.Uint1;
+      }
+      if (other.Uint2 != 0) {
+        Uint2 = other.Uint2;
+      }
+      if (other.Uint3 != 0) {
+        Uint3 = other.Uint3;
+      }
+      if (other.Uint4 != 0) {
+        Uint4 = other.Uint4;
+      }
+      if (other.Uint5 != 0) {
+        Uint5 = other.Uint5;
+      }
+      if (other.Uint6 != 0) {
+        Uint6 = other.Uint6;
+      }
+      if (other.Long1 != 0L) {
+        Long1 = other.Long1;
+      }
+      if (other.Long2 != 0L) {
+        Long2 = other.Long2;
+      }
+      if (other.Long3 != 0L) {
+        Long3 = other.Long3;
+      }
+      if (other.Long4 != 0L) {
+        Long4 = other.Long4;
+      }
+      if (other.Long5 != 0L) {
+        Long5 = other.Long5;
+      }
+      if (other.Long6 != 0L) {
+        Long6 = other.Long6;
+      }
+      if (other.Ulong1 != 0UL) {
+        Ulong1 = other.Ulong1;
+      }
+      if (other.Ulong2 != 0UL) {
+        Ulong2 = other.Ulong2;
+      }
+      if (other.Ulong3 != 0UL) {
+        Ulong3 = other.Ulong3;
+      }
+      if (other.Ulong4 != 0UL) {
+        Ulong4 = other.Ulong4;
+      }
+      if (other.Ulong5 != 0UL) {
+        Ulong5 = other.Ulong5;
+      }
+      if (other.Ulong6 != 0UL) {
+        Ulong6 = other.Ulong6;
+      }
+      if (other.Float1 != 0F) {
+        Float1 = other.Float1;
+      }
+      if (other.Float2 != 0F) {
+        Float2 = other.Float2;
+      }
+      if (other.Float3 != 0F) {
+        Float3 = other.Float3;
+      }
+      if (other.Float4 != 0F) {
+        Float4 = other.Float4;
+      }
+      if (other.Float5 != 0F) {
+        Float5 = other.Float5;
+      }
+      if (other.Float6 != 0F) {
+        Float6 = other.Float6;
+      }
+      if (other.Double1 != 0D) {
+        Double1 = other.Double1;
+      }
+      if (other.Double2 != 0D) {
+        Double2 = other.Double2;
+      }
+      if (other.Double3 != 0D) {
+        Double3 = other.Double3;
+      }
+      if (other.Double4 != 0D) {
+        Double4 = other.Double4;
+      }
+      if (other.Double5 != 0D) {
+        Double5 = other.Double5;
+      }
+      if (other.Double6 != 0D) {
+        Double6 = other.Double6;
+      }
+      if (other.String1.Length != 0) {
+        String1 = other.String1;
+      }
+      if (other.String2.Length != 0) {
+        String2 = other.String2;
+      }
+      if (other.String3.Length != 0) {
+        String3 = other.String3;
+      }
+      if (other.String4.Length != 0) {
+        String4 = other.String4;
+      }
+      if (other.String5.Length != 0) {
+        String5 = other.String5;
+      }
+      if (other.String6.Length != 0) {
+        String6 = other.String6;
+      }
+      if (other.Bytestring1.Length != 0) {
+        Bytestring1 = other.Bytestring1;
+      }
+      if (other.Bytestring2.Length != 0) {
+        Bytestring2 = other.Bytestring2;
+      }
+      if (other.Bytestring3.Length != 0) {
+        Bytestring3 = other.Bytestring3;
+      }
+      if (other.Bytestring4.Length != 0) {
+        Bytestring4 = other.Bytestring4;
+      }
+      if (other.Bytestring5.Length != 0) {
+        Bytestring5 = other.Bytestring5;
+      }
+      if (other.Bytestring6.Length != 0) {
+        Bytestring6 = other.Bytestring6;
+      }
+      if (other.Enum1 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum1 = other.Enum1;
+      }
+      if (other.Enum2 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum2 = other.Enum2;
+      }
+      if (other.Enum3 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum3 = other.Enum3;
+      }
+      if (other.Enum4 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum4 = other.Enum4;
+      }
+      if (other.Enum5 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum5 = other.Enum5;
+      }
+      if (other.Enum6 != global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum.EnumValue1) {
+        Enum6 = other.Enum6;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Boolean1 = input.ReadBool();
+            break;
+          }
+          case 16: {
+            Boolean2 = input.ReadBool();
+            break;
+          }
+          case 24: {
+            Boolean3 = input.ReadBool();
+            break;
+          }
+          case 32: {
+            Boolean4 = input.ReadBool();
+            break;
+          }
+          case 40: {
+            Boolean5 = input.ReadBool();
+            break;
+          }
+          case 48: {
+            Boolean6 = input.ReadBool();
+            break;
+          }
+          case 56: {
+            Int1 = input.ReadInt32();
+            break;
+          }
+          case 64: {
+            Int2 = input.ReadInt32();
+            break;
+          }
+          case 72: {
+            Int3 = input.ReadInt32();
+            break;
+          }
+          case 80: {
+            Int4 = input.ReadInt32();
+            break;
+          }
+          case 88: {
+            Int5 = input.ReadInt32();
+            break;
+          }
+          case 96: {
+            Int6 = input.ReadInt32();
+            break;
+          }
+          case 104: {
+            Uint1 = input.ReadUInt32();
+            break;
+          }
+          case 112: {
+            Uint2 = input.ReadUInt32();
+            break;
+          }
+          case 120: {
+            Uint3 = input.ReadUInt32();
+            break;
+          }
+          case 128: {
+            Uint4 = input.ReadUInt32();
+            break;
+          }
+          case 136: {
+            Uint5 = input.ReadUInt32();
+            break;
+          }
+          case 144: {
+            Uint6 = input.ReadUInt32();
+            break;
+          }
+          case 152: {
+            Long1 = input.ReadInt64();
+            break;
+          }
+          case 160: {
+            Long2 = input.ReadInt64();
+            break;
+          }
+          case 168: {
+            Long3 = input.ReadInt64();
+            break;
+          }
+          case 176: {
+            Long4 = input.ReadInt64();
+            break;
+          }
+          case 184: {
+            Long5 = input.ReadInt64();
+            break;
+          }
+          case 192: {
+            Long6 = input.ReadInt64();
+            break;
+          }
+          case 200: {
+            Ulong1 = input.ReadUInt64();
+            break;
+          }
+          case 208: {
+            Ulong2 = input.ReadUInt64();
+            break;
+          }
+          case 216: {
+            Ulong3 = input.ReadUInt64();
+            break;
+          }
+          case 224: {
+            Ulong4 = input.ReadUInt64();
+            break;
+          }
+          case 232: {
+            Ulong5 = input.ReadUInt64();
+            break;
+          }
+          case 240: {
+            Ulong6 = input.ReadUInt64();
+            break;
+          }
+          case 253: {
+            Float1 = input.ReadFloat();
+            break;
+          }
+          case 261: {
+            Float2 = input.ReadFloat();
+            break;
+          }
+          case 269: {
+            Float3 = input.ReadFloat();
+            break;
+          }
+          case 277: {
+            Float4 = input.ReadFloat();
+            break;
+          }
+          case 285: {
+            Float5 = input.ReadFloat();
+            break;
+          }
+          case 293: {
+            Float6 = input.ReadFloat();
+            break;
+          }
+          case 297: {
+            Double1 = input.ReadDouble();
+            break;
+          }
+          case 305: {
+            Double2 = input.ReadDouble();
+            break;
+          }
+          case 313: {
+            Double3 = input.ReadDouble();
+            break;
+          }
+          case 321: {
+            Double4 = input.ReadDouble();
+            break;
+          }
+          case 329: {
+            Double5 = input.ReadDouble();
+            break;
+          }
+          case 337: {
+            Double6 = input.ReadDouble();
+            break;
+          }
+          case 346: {
+            String1 = input.ReadString();
+            break;
+          }
+          case 354: {
+            String2 = input.ReadString();
+            break;
+          }
+          case 362: {
+            String3 = input.ReadString();
+            break;
+          }
+          case 370: {
+            String4 = input.ReadString();
+            break;
+          }
+          case 378: {
+            String5 = input.ReadString();
+            break;
+          }
+          case 386: {
+            String6 = input.ReadString();
+            break;
+          }
+          case 394: {
+            Bytestring1 = input.ReadBytes();
+            break;
+          }
+          case 402: {
+            Bytestring2 = input.ReadBytes();
+            break;
+          }
+          case 410: {
+            Bytestring3 = input.ReadBytes();
+            break;
+          }
+          case 418: {
+            Bytestring4 = input.ReadBytes();
+            break;
+          }
+          case 426: {
+            Bytestring5 = input.ReadBytes();
+            break;
+          }
+          case 434: {
+            Bytestring6 = input.ReadBytes();
+            break;
+          }
+          case 440: {
+            Enum1 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 448: {
+            Enum2 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 456: {
+            Enum3 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 464: {
+            Enum4 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 472: {
+            Enum5 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 480: {
+            Enum6 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Boolean1 = input.ReadBool();
+            break;
+          }
+          case 16: {
+            Boolean2 = input.ReadBool();
+            break;
+          }
+          case 24: {
+            Boolean3 = input.ReadBool();
+            break;
+          }
+          case 32: {
+            Boolean4 = input.ReadBool();
+            break;
+          }
+          case 40: {
+            Boolean5 = input.ReadBool();
+            break;
+          }
+          case 48: {
+            Boolean6 = input.ReadBool();
+            break;
+          }
+          case 56: {
+            Int1 = input.ReadInt32();
+            break;
+          }
+          case 64: {
+            Int2 = input.ReadInt32();
+            break;
+          }
+          case 72: {
+            Int3 = input.ReadInt32();
+            break;
+          }
+          case 80: {
+            Int4 = input.ReadInt32();
+            break;
+          }
+          case 88: {
+            Int5 = input.ReadInt32();
+            break;
+          }
+          case 96: {
+            Int6 = input.ReadInt32();
+            break;
+          }
+          case 104: {
+            Uint1 = input.ReadUInt32();
+            break;
+          }
+          case 112: {
+            Uint2 = input.ReadUInt32();
+            break;
+          }
+          case 120: {
+            Uint3 = input.ReadUInt32();
+            break;
+          }
+          case 128: {
+            Uint4 = input.ReadUInt32();
+            break;
+          }
+          case 136: {
+            Uint5 = input.ReadUInt32();
+            break;
+          }
+          case 144: {
+            Uint6 = input.ReadUInt32();
+            break;
+          }
+          case 152: {
+            Long1 = input.ReadInt64();
+            break;
+          }
+          case 160: {
+            Long2 = input.ReadInt64();
+            break;
+          }
+          case 168: {
+            Long3 = input.ReadInt64();
+            break;
+          }
+          case 176: {
+            Long4 = input.ReadInt64();
+            break;
+          }
+          case 184: {
+            Long5 = input.ReadInt64();
+            break;
+          }
+          case 192: {
+            Long6 = input.ReadInt64();
+            break;
+          }
+          case 200: {
+            Ulong1 = input.ReadUInt64();
+            break;
+          }
+          case 208: {
+            Ulong2 = input.ReadUInt64();
+            break;
+          }
+          case 216: {
+            Ulong3 = input.ReadUInt64();
+            break;
+          }
+          case 224: {
+            Ulong4 = input.ReadUInt64();
+            break;
+          }
+          case 232: {
+            Ulong5 = input.ReadUInt64();
+            break;
+          }
+          case 240: {
+            Ulong6 = input.ReadUInt64();
+            break;
+          }
+          case 253: {
+            Float1 = input.ReadFloat();
+            break;
+          }
+          case 261: {
+            Float2 = input.ReadFloat();
+            break;
+          }
+          case 269: {
+            Float3 = input.ReadFloat();
+            break;
+          }
+          case 277: {
+            Float4 = input.ReadFloat();
+            break;
+          }
+          case 285: {
+            Float5 = input.ReadFloat();
+            break;
+          }
+          case 293: {
+            Float6 = input.ReadFloat();
+            break;
+          }
+          case 297: {
+            Double1 = input.ReadDouble();
+            break;
+          }
+          case 305: {
+            Double2 = input.ReadDouble();
+            break;
+          }
+          case 313: {
+            Double3 = input.ReadDouble();
+            break;
+          }
+          case 321: {
+            Double4 = input.ReadDouble();
+            break;
+          }
+          case 329: {
+            Double5 = input.ReadDouble();
+            break;
+          }
+          case 337: {
+            Double6 = input.ReadDouble();
+            break;
+          }
+          case 346: {
+            String1 = input.ReadString();
+            break;
+          }
+          case 354: {
+            String2 = input.ReadString();
+            break;
+          }
+          case 362: {
+            String3 = input.ReadString();
+            break;
+          }
+          case 370: {
+            String4 = input.ReadString();
+            break;
+          }
+          case 378: {
+            String5 = input.ReadString();
+            break;
+          }
+          case 386: {
+            String6 = input.ReadString();
+            break;
+          }
+          case 394: {
+            Bytestring1 = input.ReadBytes();
+            break;
+          }
+          case 402: {
+            Bytestring2 = input.ReadBytes();
+            break;
+          }
+          case 410: {
+            Bytestring3 = input.ReadBytes();
+            break;
+          }
+          case 418: {
+            Bytestring4 = input.ReadBytes();
+            break;
+          }
+          case 426: {
+            Bytestring5 = input.ReadBytes();
+            break;
+          }
+          case 434: {
+            Bytestring6 = input.ReadBytes();
+            break;
+          }
+          case 440: {
+            Enum1 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 448: {
+            Enum2 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 456: {
+            Enum3 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 464: {
+            Enum4 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 472: {
+            Enum5 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+          case 480: {
+            Enum6 = (global::UnitTest.Issues.TestProtos.AllFieldRepeatedClass.Types.simpleEnum) input.ReadEnum();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+    #region Nested types
+    /// <summary>Container for nested types declared in the AllFieldRepeatedClass message type.</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static partial class Types {
+      public enum simpleEnum {
+        [pbr::OriginalName("enumValue1")] EnumValue1 = 0,
+        [pbr::OriginalName("enumValue2")] EnumValue2 = 1,
+        [pbr::OriginalName("enumvalue3")] Enumvalue3 = 2,
+        [pbr::OriginalName("enumvalue4")] Enumvalue4 = 3,
+        [pbr::OriginalName("enumvalue5")] Enumvalue5 = 4,
+        [pbr::OriginalName("enumvalue6")] Enumvalue6 = 5,
+      }
+
+    }
+    #endregion
 
   }
 

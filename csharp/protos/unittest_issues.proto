@@ -201,3 +201,90 @@ message Issue11987Message {
   int32 b = 2 [json_name = 'a'];
   int32 c = 3 [json_name = 'd'];
 }
+
+
+//Issue #### - link
+//GethashCode contains too many Colisions
+
+message AllFieldRepeatedClass {
+  enum simpleEnum {
+    enumValue1 = 0;
+    enumValue2 = 1;
+    enumvalue3 = 2;
+    enumvalue4 = 3;
+    enumvalue5 = 4;
+    enumvalue6 = 5;
+  }
+
+  bool boolean1 = 1;
+  bool boolean2 = 2;
+  bool boolean3 = 3;
+  bool boolean4 = 4;
+  bool boolean5 = 5;
+  bool boolean6 = 6;
+
+  int32 int1 = 7;
+  int32 int2 = 8;
+  int32 int3 = 9;
+  int32 int4 = 10;
+  int32 int5 = 11;
+  int32 int6 = 12;
+
+  uint32 uint1 = 13;
+  uint32 uint2 = 14;
+  uint32 uint3 = 15;
+  uint32 uint4 = 16;
+  uint32 uint5 = 17;
+  uint32 uint6 = 18;
+
+  int64 long1 = 19;
+  int64 long2 = 20;
+  int64 long3 = 21;
+  int64 long4 = 22;
+  int64 long5 = 23;
+  int64 long6 = 24;
+
+  uint64 ulong1 = 25;
+  uint64 ulong2 = 26;
+  uint64 ulong3 = 27;
+  uint64 ulong4 = 28;
+  uint64 ulong5 = 29;
+  uint64 ulong6 = 30;
+
+  float float1 = 31;
+  float float2 = 32;
+  float float3 = 33;
+  float float4 = 34;
+  float float5 = 35;
+  float float6 = 36;
+
+  double double1 = 37;
+  double double2 = 38;
+  double double3 = 39;
+  double double4 = 40;
+  double double5 = 41;
+  double double6 = 42;
+
+  string string1 = 43;
+  string string2 = 44;
+  string string3 = 45;
+  string string4 = 46;
+  string string5 = 47;
+  string string6 = 48;
+
+  bytes bytestring1 = 49;
+  bytes bytestring2 = 50;
+  bytes bytestring3 = 51;
+  bytes bytestring4 = 52;
+  bytes bytestring5 = 53;
+  bytes bytestring6 = 54;
+
+  simpleEnum enum1 = 55;
+  simpleEnum enum2 = 56;
+  simpleEnum enum3 = 57;
+  simpleEnum enum4 = 58;
+  simpleEnum enum5 = 59;
+  simpleEnum enum6 = 60;
+
+
+}
