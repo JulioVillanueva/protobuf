@@ -16,6 +16,7 @@ PROTOC_LOCATIONS=(
   "solution/Debug/protoc.exe"
   "cmake/build/Debug/protoc.exe"
   "cmake/build/Release/protoc.exe"
+  "C:\Users\JulioV\.proto\bin\protoc.exe"
 )
 if [ -z "$PROTOC" ]; then
   for protoc in "${PROTOC_LOCATIONS[@]}"; do
